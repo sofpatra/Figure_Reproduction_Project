@@ -1,5 +1,5 @@
-# Figure_Reproduction_Project
-Reproduction of Publication Figures using published data. 
+# Bulk RNAseq Analysis 
+Reproduction of Publication Figures of published bulk RNA-seq data using R and Python for analysis. 
 
 Depending on the computational tools and methods used, RNA-seq analysis done by different researchers 
 may yield notably different results. For this reason, it is important for researchers to be explicit about the 
